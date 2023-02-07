@@ -1,0 +1,50 @@
+.location{
+    background-color: #031e22;
+    box-shadow: 1px 1px 5px #000000b2;
+    padding: 1em 1.5em;
+    margin-bottom: 4em;
+    max-width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 5px;
+}
+
+.location__name{
+    text-align: center;
+    margin-bottom: 0.5em;
+    color: rgb(133, 167, 33);
+    filter: brightness(1.1);
+}
+
+.location__list{
+    display: flex;
+    justify-content: space-around;
+    gap: 1em;
+}
+
+.location__item{
+    display: grid;
+    gap: 0.3em;
+    text-align: center;
+    font-weight: 300;
+    color: rgba(248, 255, 229, 0.678);
+}
+
+.location__label{
+    font-weight: 600;
+    color: rgb(248, 255, 229);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
